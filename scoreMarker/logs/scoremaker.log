@@ -1,0 +1,12 @@
+2016-04-23 17:27:39,440 INFO  org.springframework.context.support.AbstractApplicationContext:510  -> Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@14899482: startup date [Sat Apr 23 17:27:39 CST 2016]; root of context hierarchy
+2016-04-23 17:27:39,572 INFO  org.springframework.core.io.support.PropertiesLoaderSupport:172  -> Loading properties file from file [D:\code\ExamStack\scoreMarker\config\scoremaker.properties]
+2016-04-23 17:27:39,892 INFO  com.examstack.scoremarker.ScoreMarkerWin:43  -> ScoreMarker daemon init done.
+2016-04-23 17:27:39,895 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,360 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,397 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,444 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,472 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,502 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:27:40,531 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-23 17:46:50,259 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
+2016-04-26 11:24:01,057 INFO  com.examstack.scoremarker.ScoreMarkerWin:81  -> scoreMaker checking next delivery from message queue
