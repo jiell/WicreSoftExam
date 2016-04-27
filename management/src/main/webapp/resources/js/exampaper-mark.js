@@ -88,10 +88,19 @@ var examing = {
 				"z-index" : '1'	
 			});
 
+			var dtknum=1;
 			$("#question-navi-controller").click(function() {
 				var nav = $("#question-navi");
 				var attr = nav.attr("style");
-
+				
+				if(dtknum==1){
+					  $(this).find("i").addClass("fa-arrow-circle-down").removeClass("fa-arrow-circle-down");
+					  dtknum=2;
+		        }else{
+					$(this).find("i").addClass("fa-arrow-circle-up").removeClass("fa-arrow-circle-up");
+					dtknum=1;
+		        }
+				
 				if (nav.css("position") == "fixed") {
 					if (nav.css("bottom") == "0px") {
 						nav.css({

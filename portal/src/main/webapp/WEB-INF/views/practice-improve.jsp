@@ -180,7 +180,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 									</div>
 									<div id="question-navi">
 										<div id="question-navi-controller">
-											<i class="fa fa-arrow-circle-down"></i>
+											<i class="fa fa-arrow-circle-up"></i>
 											<span>答题卡</span>
 										</div>
 										<div id="question-navi-content" ></div>
